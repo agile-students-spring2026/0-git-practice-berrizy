@@ -1,6 +1,6 @@
 # Article about Software Development 
 
-## [The Uncomfortable Truth: Why Software Development Remains Brutally Complex Despite Decades of Innovation]https://www.webpronews.com/the-uncomfortable-truth-why-software-development-remains-brutally-complex-despite-decades-of-innovation/
+## [The Uncomfortable Truth: Why Software Development Remains Brutally Complex Despite Decades of Innovation](https://www.webpronews.com/the-uncomfortable-truth-why-software-development-remains-brutally-complex-despite-decades-of-innovation/)
 
 ### My Response
 
